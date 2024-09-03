@@ -42,7 +42,7 @@ Additionally, the provided example expects an installation of the following libr
 
 Both this libraries can be installed using the following bash command:
 ```bash
-pip install gmsh==4.11.1 optuna==2.10.0
+pip install gmsh==4.11.1 optuna==2.10.0 SQLAlchemy==1.4.44
 ```
 
 ## SOFA and mandatory plugins
